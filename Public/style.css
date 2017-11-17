@@ -122,12 +122,14 @@ ul{
   margin-bottom: 10px;
   display: none;
 }
+
 .error{
 	background: #fff;
 	padding: 3em;
 	margin: 30px auto;
   box-shadow: 0 0 20px 0 rgb(255,255,255);
 }
+
 .error a{
 	background: #EF5350;
 	padding: 10px 15px;
